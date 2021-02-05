@@ -1,4 +1,4 @@
-# Monitor-My-Lockdown-Using-Seismic-Vibrations-Tutorial
+# Monitor My Lockdown Using Seismic Vibrations Tutorial
 
 
 ## Monitor My Lockdown Project and Web App
