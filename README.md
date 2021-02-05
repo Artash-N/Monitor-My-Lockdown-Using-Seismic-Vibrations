@@ -1,12 +1,12 @@
 # Monitor-My-Lockdown-Using-Seismic-Vibrations
 
 
-Monitor My Lockdown Project and Web App
+## Monitor My Lockdown Project and Web App
 On 11 March 2020, the World Health Organization (WHO) declared COVID-19 a pandemic. Countries around the world rushed to declare various states of emergencies. Canada was no different. By 19 March 2020, all Canadian provinces and territories had enforced some forms of lockdowns, and the Canada-US border was shut.
 
 Lockdowns are difficult decisions to make – politically and economically. Closing borders, grounding road, rail and air transport, closing schools, offices, entertainment and sports venues, and non-essential services come at a huge cost to individuals, businesses and society. But restricting human movements is essential to check the spread of the pandemic and ensure our health systems do not collapse.
 
-Measuring Reduction in Human Movements During COVID-19 Lockdown Using Seismic Data
+## Measuring Reduction in Human Movements During COVID-19 Lockdown Using Seismic Data
 
 I conceived “Monitor My Lockdown” in June 2020 when my school doors closed due to the COVID-19 lockdown. I wanted to measure the impact of lockdowns in reducing movements of people. I started with installing sensors and camera in front of my home and measuring changes in street sound levels, city night lights, pollution levels, and traffic on the road. Later, I wanted to expand my analysis to the entire country. To do so, I moved from ground-level measurements to subsurface measurements and started analyzing data from seismic stations across Canada.
 
@@ -14,7 +14,7 @@ I wrote custom algorithms to gather, analyze and visualize 80 billion lines of s
 
 See detailed results: the seismic silences of Canadian cities during the COVID-19 lockdown.
 
-Monitor My Lockdown Web App: For COVID-19 pandemic planning
+## Monitor My Lockdown Web App: For COVID-19 pandemic planning
 
 The results of my project are presented as a Web App so that they can be used for COVID-19 pandemic management.
 
@@ -23,7 +23,7 @@ Healthcare workers can use the App to predict for spikes in COVID-19 cases due t
 Researchers can use the App to extract seismic vibrations over different frequencies.
 View the Web App: http://www.MonitorMyLockdown.com
 
-Monitor My Lockdown Online Tutorial: from Canada to the World
+## Monitor My Lockdown Online Tutorial: from Canada to the World
 
 The pandemic does not respect national boundaries. Every country is grappling with how to enforce lockdowns to manage the pandemic. The World Health Organization (WHO) is warning of deadlier pandemics in the future. We need to be prepared.
 
