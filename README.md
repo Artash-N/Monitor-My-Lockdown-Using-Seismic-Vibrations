@@ -1,11 +1,13 @@
 # Monitor My Lockdown Using Seismic Vibrations Tutorial
 
-![](images/all_cities_histogram.jpg)
-
 ## Monitor My Lockdown Project and Web App
 On 11 March 2020, the World Health Organization (WHO) declared COVID-19 a pandemic. Countries around the world rushed to declare various states of emergencies. Canada was no different. By 19 March 2020, all Canadian provinces and territories had enforced some forms of lockdowns, and the Canada-US border was shut.
 
 Lockdowns are difficult decisions to make – politically and economically. Closing borders, grounding road, rail and air transport, closing schools, offices, entertainment and sports venues, and non-essential services come at a huge cost to individuals, businesses and society. But restricting human movements is essential to check the spread of the pandemic and ensure our health systems do not collapse.
+
+![](images/all_cities_histogram.jpg)
+
+
 
 ## Measuring Reduction in Human Movements During COVID-19 Lockdown Using Seismic Data
 
